@@ -1,8 +1,14 @@
 [
 {
-"name":"example",
+"name":"block list en",
 "author":"rummies",
 "version":"1.0.0",
-"url":"https://github.com/rummies/iosblocklist/example.json"
+"url":"https://raw.githubusercontent.com/rummies/iosblocklist/master/contrib/list-en.json"
+},
+{
+"name":"block list cn",
+"author":"rummies",
+"version":"1.0.0",
+"url":"https://raw.githubusercontent.com/rummies/iosblocklist/master/contrib/list-cn.json"
 }
 ]
